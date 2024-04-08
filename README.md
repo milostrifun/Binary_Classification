@@ -1,2 +1,2 @@
 # Binary_Classification
-Binary Classification Horse and Human
+Binary Classification Horse and Human with Transfer Learning
